@@ -1,4 +1,6 @@
 # gofs
+[![Go](https://github.com/ken-tunc/gofs/actions/workflows/go.yml/badge.svg)](https://github.com/ken-tunc/gofs/actions/workflows/go.yml)
+
 A simple library for manipulating file system.
 
 ## Requirements
